@@ -55,4 +55,4 @@ const usersList = [
 	},
 ];
 
-module.export = usersList
+module.exports = usersList;
